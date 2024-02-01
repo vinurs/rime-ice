@@ -30,7 +30,7 @@ patch:
     bindings: # 设置哪些键可以翻页，需要哪个取消注释即可
       - { when: composing, accept: Tab, send: Right } # Tab 移动光标向右
       - { when: has_menu, accept: bracketright, send: Page_Down }
-      - { when: has_menu, accept: "Control+k", send: Page_Up }
-      - { when: has_menu, accept: "Control+j", send: Page_Down }
+      - { when: has_menu, accept: "Control+p", send: Page_Up }
+      - { when: has_menu, accept: "Control+n", send: Page_Down }
       - { when: has_menu, accept: "Control+h", send: Left }
       - { when: has_menu, accept: "Control+l", send: Right }
