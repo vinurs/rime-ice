@@ -6,7 +6,6 @@
 騃 ai
 爊 ao
 𧈢 ba
-㞎 ba
 峇 ba
 粄 ban
 躄 bi
@@ -15,7 +14,6 @@
 礤 ca
 閦 chu
 鯙 chun
-蟌 cong
 蜑 dan
 氹 dang
 鮗 dong
@@ -47,7 +45,6 @@
 濬 jun
 埈 jun
 峠 ka
-堀 ku
 窾 kuan
 鯻 la
 𧒽 lei
@@ -68,7 +65,6 @@
 麿 mo
 拏 na
 㖏 nie
-珮 pei
 鬅 peng
 魾 pi
 魮 pi
@@ -78,17 +74,15 @@
 犭 quan
 荵 ren
 睒 shan
-辻 shi
 昰 shi
 糸 si
+楤 song
 𧊕 song
 䍁 sui
 㓥 tang
 螣 teng
 稊 ti
 畑 tian
-樋 tong
-氽 tun
 魠 tuo
 梶 wei
 揾 wen
@@ -112,7 +106,6 @@
 煐 ying
 楢 you
 魣 yu
-𫚪 yu
 蚖 yuan
 䗃 zhan
 鱵 zhen
@@ -124,26 +117,35 @@
 𭎂 zong
 ### ----------在字表但未被脚本自动纳入的注音：----------
 # 嗯 eng # 目前以 en 为主
+鿫 ao
+㞎 ba
+𰻝 biang
+𤭢 cei
+蟌 cong
+㨃 dui
 欸 ei
+鿔 ge
+睆 huan
+堀 ku
+菈 la
+𫟷 li
+鿭 ni
+嬢 niang
+珮 pei
+螓 qin
+䞍 qing
+朊 ruan
+辻 shi
+薙 ti
+鿬 tian
+樋 tong
+氽 tun
+雫 xia
+咲 xiao
 哟 yo
 唷 yo
-𰻝 biang
-嬢 niang
-薙 ti
-菈 la
-咲 xiao
-雫 xia
-螓 qin
-㨃 dui
-𤭢 cei
-䞍 qing
+𫚪 yu
 跩 zhuai
-朊 ruan
-鿔 ge
-鿭 ni
-𫟷 li
-鿬 tian
-鿫 ao
 # -_- ----------这行下面是要过滤掉的词汇，不进行注音检查----------
 娭毑
 杭育
@@ -161,6 +163,7 @@
 蹑蹻担簦
 臲卼
 蹑景追飞
+赢粮而景从
 女红
 呕哑嘲哳难为听
 毰毸
@@ -474,8 +477,27 @@
 尤云殢雨
 沾云殢雨
 转文
+仆射
 右仆射
 左仆射
+尚书仆射
+尚书右仆射
+尚书左仆射
+姑射
+姑射山
+姑射之山
+藐姑射
+藐姑射之山
+北姑射山
+南姑射山
+列姑射
+列姑射山
+姑射神人
+姑射仙子
+姑射冰肌
+南宫适
+李适
+唐德宗李适
 糸部
 糸守变电所
 糸守高中
@@ -595,7 +617,6 @@
 破谜儿
 陂陀
 尨茸
-仆射
 千乘万骑
 梫木
 謦咳
@@ -630,7 +651,6 @@
 日居月诸
 彡部
 石濑兮浅浅
-楤木
 蜙蝑
 索琼茅以筳篿兮
 嗒然
@@ -655,7 +675,6 @@
 乡音未改鬓毛衰
 晓驾炭车辗冰辙
 屧粉秋蛩扫
-脇野龙
 禤靐龘
 彐部
 掩骼埋胔
@@ -791,3 +810,6 @@
 嬛嬛一袅楚宫腰
 予恶乎知说生之非惑邪
 姓能
+不穀
+孤寡不穀
+堕高堙庳
