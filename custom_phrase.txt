@@ -31,6 +31,12 @@
 又	u	2
 由	u	1
 
+陆姁媛	luxuyuan	3
+陆姁媛	lu xu yuan	3
+陆姁媛	lxy	2
+姁媛	xuyuan	2
+姁媛	xu yuan	2
+姁	xu	1
 一	i	4
 以	i	3
 已	i	2
