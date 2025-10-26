@@ -17,7 +17,7 @@
 # 转化应当大写的单词
 ---
 name: en
-version: "2025-09-10"
+version: "2025-10-23"
 sort: by_weight
 ...
 # +_+
@@ -3251,6 +3251,7 @@ chang	chang
 change	change
 changed	changed
 changelog	changelog
+changeover	changeover
 changer	changer
 changes	changes
 changing	changing
@@ -3957,6 +3958,7 @@ communism	communism
 communist	communist
 communities	communities
 community	community
+commutation	commutation
 commute	commute
 commuter	commuter
 # como	como
@@ -6208,6 +6210,7 @@ durable	durable
 Durango	Durango
 duration	duration
 Durban	Durban
+duress	duress
 Durham	Durham
 durian	durian
 during	during
@@ -8020,7 +8023,7 @@ freshman	freshman
 freshmen	freshmen
 freshness	freshness
 freshwater	freshwater
-Fresno	Fresno
+# Fresno	Fresno
 fret	fret
 Frey	Frey
 Fri.	Fri
@@ -8283,7 +8286,7 @@ GeForce	GeForce
 geisha	geisha
 gel	gel
 gem	gem
-Gemini	Gemini
+gemini	gemini
 gems	gems
 gemstone	gemstone
 gemstones	gemstones
@@ -8710,6 +8713,7 @@ groan	groan
 grocer	grocer
 groceries	groceries
 grocery	grocery
+grok	grok
 groom	groom
 grooming	grooming
 groove	groove
@@ -9819,6 +9823,11 @@ improvement	improvement
 improvements	improvements
 improves	improves
 improving	improving
+improvisation	improvisation
+improvise	improvise
+improvised	improvised
+improvises	improvises
+improvising	improvising
 impulse	impulse
 impurity	impurity
 # ims	ims
@@ -11435,6 +11444,9 @@ lifted	lifted
 lifting	lifting
 lifts	lifts
 ligand	ligand
+ligate	ligate
+ligation	ligation
+ligature	ligature
 light	light
 lightbox	lightbox
 lighted	lighted
@@ -13838,6 +13850,7 @@ ophthalmology	ophthalmology
 opinion	opinion
 opinions	opinions
 opium	opium
+opossum	opossum
 # opp	opp
 opponent	opponent
 opponents	opponents
@@ -14019,6 +14032,7 @@ outlook	outlook
 outlying	outlying
 outpatient	outpatient
 outpost	outpost
+outpouring	outpouring
 output	output
 outputs	outputs
 outrage	outrage
@@ -16665,6 +16679,7 @@ retains	retains
 retard	retard
 retardation	retardation
 retention	retention
+retina	retina
 retire	retire
 retired	retired
 retirement	retirement
@@ -16757,6 +16772,7 @@ rhizome	rhizome
 rhode	rhode
 Rhodes	Rhodes
 rhodium	rhodium
+rhyme	rhyme
 rhymes	rhymes
 rhythm	rhythm
 rhythms	rhythms
@@ -16795,6 +16811,7 @@ ridge	ridge
 ridicule	ridicule
 ridiculous	ridiculous
 riding	riding
+riff	riff
 rifle	rifle
 rifles	rifles
 rig	rig
@@ -16860,6 +16877,7 @@ Riviera	Riviera
 RNA	RNA
 # ro	ro
 roach	roach
+roaches	roaches
 road	road
 roadmap	roadmap
 roads	roads
@@ -18621,6 +18639,7 @@ sponsors	sponsors
 sponsorship	sponsorship
 spontaneous	spontaneous
 spoon	spoon
+spore	spore
 sport	sport
 sporting	sporting
 sports	sports
@@ -19133,6 +19152,7 @@ successfully	successfully
 succession	succession
 successive	successive
 successor	successor
+succinct	succinct
 succulent	succulent
 succulently	succulently
 such	such
@@ -19981,7 +20001,6 @@ thyroid	thyroid
 # ti	ti
 # tia	tia
 tiara	tiara
-Tiava	Tiava
 Tibet	Tibet
 Tibetan	Tibetan
 tic	tic
@@ -19989,7 +20008,7 @@ tick	tick
 # tickboxes	tickboxes
 ticker	ticker
 ticket	ticket
-ticketmaster	ticketmaster
+# ticketmaster	ticketmaster
 tickets	tickets
 tickle	tickle
 tickling	tickling
@@ -20568,6 +20587,7 @@ turbulence	turbulence
 turbulent	turbulent
 turf	turf
 Turin	Turin
+Turing	Turing
 Turismo	Turismo
 Turkey	Turkey
 turkey	turkey
