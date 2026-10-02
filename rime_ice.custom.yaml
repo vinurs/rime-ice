@@ -1,0 +1,3 @@
+patch:
+  # tmux 前缀后的键直接交给终端，见 lua/tmux_prefix.lua
+  engine/processors/@before 0: lua_processor@*tmux_prefix

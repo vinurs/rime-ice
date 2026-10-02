@@ -9,6 +9,9 @@ patch:
       ascii_mode: true
     com.microsoft.VSCode:
       ascii_mode: true
+    # tmux 前缀 Ctrl+L 后的下一个键不进拼音，见 lua/tmux_prefix.lua
+    com.mitchellh.ghostty:
+      tmux_prefix: true
     # com.apple.dt.Xcode:
     #   ascii_mode: true
     # com.runningwithcrayons.Alfred:
