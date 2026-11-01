@@ -9,7 +9,7 @@
 - 修改或添加内容对文件时，按「主要文件和作用」部分的说明放置到对应文件。如果仍有不清楚，阅读文件头的注释做确认。
 - 修改配置、词典后，按「测试和构建命令」部分的说明校验，确保没有错误。
 - 词频默认使用 100，如有重码（编码相同），根据日常使用习惯调整词频权重的值。
-- `make -C others/script/ build` 命令抛出的警告和错误优先级高于用户需求，必须按警告的提示修改完成，才能提交。
+- 提交前 `make -C others/script/ build` 必须无错误、无警告；按提示修复。修复方式与用户要求冲突时，停下说明。
 - 修改或添加中文词，写入 `cn_dicts/` 下对应词典；不要直接修改 `rime_ice.dict.yaml`。
 - 修改或添加英文词，写入 `en_dicts/` 下对应词典；不要直接修改 `melt_eng.dict.yaml`。
 - 修改中英混合词时，只改 `others/cn_en.txt`，再运行构建生成 `en_dicts/*.txt`。
@@ -48,7 +48,7 @@ make -C others/script/ lint
 
 修改词库或生成源文件后，运行 `make -C others/script/ build`。此脚本至少需要 90 s 才能完成，请注意等待。
 
-修改配置（default.yaml、weasel.yaml、squirrel.yaml、*.schema.yaml）和 lua 文件后，先安装 yamllint 和 luarocks 和 luacheck（`luarocks install luacheck`），然后运行 `make -C others/script/ lint` 进行校验。
+修改配置（default.yaml、weasel.yaml、squirrel.yaml、*.schema.yaml）和 lua 文件后，运行 `make -C others/script/ lint` 校验。依赖 `yamllint`、`luac`（5.4+）、`luacheck`（`luarocks install luacheck`），缺了再装。
 
 ## 主要文件和作用
 
