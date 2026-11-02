@@ -1,3 +1,5 @@
 patch:
   # tmux 前缀后的键直接交给终端，见 lua/tmux_prefix.lua
   engine/processors/@before 0: lua_processor@*tmux_prefix
+  # 切窗口回来沿用上次的中英状态，见 lua/ascii_memory.lua
+  engine/processors/@before 1: lua_processor@*ascii_memory
